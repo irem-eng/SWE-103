@@ -7,3 +7,4 @@ int main() {
 a
 a
 a
+a
